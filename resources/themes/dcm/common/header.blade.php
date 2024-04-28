@@ -6,7 +6,7 @@
 
             @include('common.logo')
             {{-- data-toggle="layout" data-action="header_search_on" --}}
-            <button id="btn-search" type="button" class="btn btn-dual ml-2">
+            <button id="btn-search" type="search" class="btn btn-dual ml-2">
                 <i class="fas fa-search"></i>
             </button>
         </div>

@@ -1,16 +1,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 
 {!! SEO::generate() !!}
-{{-- <title>@yield('title', dcmConfig('meta_title') ?? dcmConfig('title') ?? 'Google PlayStore Apps' )</title>
+{{-- <title>@yield('title', dcmConfig('meta_title') ?? dcmConfig('title') ?? 'PlayVerse Store' )</title>
 
-<meta name="description" content="@yield('description', dcmConfig('meta_description') ?? 'Google PlayStore Apps' )">
-<meta name="author" content="@yield('author', dcmConfig('site_author') ?? 'Anthony Pillos' )">
+<meta name="description" content="@yield('description', dcmConfig('meta_description') ?? 'PlayVerse Store' )">
+<meta name="author" content="@yield('author', dcmConfig('site_author') ?? 'PlayVerse Store' )">
 
 
-<meta property="og:title" content="@yield('title', dcmConfig('meta_title') ?? dcmConfig('title') ?? 'Google PlayStore Apps' )">
-<meta property="og:site_name" content="@yield('title', dcmConfig('meta_title') ?? dcmConfig('title') ?? 'Google PlayStore Apps' )">
-<meta property="og:description" content="@yield('description', dcmConfig('meta_description') ?? 'Google PlayStore Apps' )">
+<meta property="og:title" content="@yield('title', dcmConfig('meta_title') ?? dcmConfig('title') ?? 'PlayVerse Store' )">
+<meta property="og:site_name" content="@yield('title', dcmConfig('meta_title') ?? dcmConfig('title') ?? 'PlayVerse Store   ' )">
+<meta property="og:description" content="@yield('description', dcmConfig('meta_description') ?? 'PlayVerse Store   ' )">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ url()->current() }}">
 <meta property="og:image" content="@yield('image', asset(dcmConfig('site_logo')) ?? '#' )"> --}}

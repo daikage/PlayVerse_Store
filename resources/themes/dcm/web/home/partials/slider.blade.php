@@ -1,6 +1,6 @@
 
 @if(isset($sliders) && $sliders)
-
+<h1>Spotlight</h1>
 <div class="col-md-12 mb-4">
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
